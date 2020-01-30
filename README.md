@@ -66,7 +66,7 @@ Git MarkDown 사용법
 * Format : ![이미지 alt속성](상대경로및 절대경로)
 
 1. 두 번째 방법
-* Format '<a href="#"><img src="절대경로or상대경로" width ="400px" alt="sample image"></a>'
+* Format //<a href="#"><img src="절대경로or상대경로" width ="이미지넓이px" alt="이미지 alt속성"></a>
 
 
 
