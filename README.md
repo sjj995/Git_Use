@@ -24,8 +24,8 @@ Git MarkDown 사용법
 * 목록 만들기 : '*','+','-', 사용해서 목록을 만들 수 있다.
 
 * title 1
- * title 1.1
- * title 1.2
+   * title 1.1
+   * title 1.2
 * title 2
   
 + 제목 1
