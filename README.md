@@ -77,7 +77,7 @@ Git MarkDown 사용법
 
 * 시작줄 맨 앞에 '>' 와 끝 줄 맨 앞에 '<'를 사용하게되면 인용상자를 사용할 수 있다.
 
-In Proverbs 23::7
+In Proverbs 23:7
 
 > for he is the kind of man who is always thinking about the cost.    
 > "Eat and drink," he says to you, but his heart is not with you.
