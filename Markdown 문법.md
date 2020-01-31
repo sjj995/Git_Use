@@ -114,12 +114,15 @@ Column 1 | Column 2
 
 ### 2.11 수평선
 
-<a href ="#"><img src="/images/수평선.JPG" width ="300px" alt="수평선"></a>
+<a href ="#"><img src="/images/수평선.JPG" width ="100px" alt="수평선"></a>
   
 ---
 ***
 - - -
 
+
+
+## 대략적으로 꼭 필요한 마크다운 문법에 대해서 정리해보았습니다.!!! 감사합니다 :)
 
 
 
