@@ -67,7 +67,8 @@ Git MarkDown 사용법
 
 ### 2.6 코드 블록
 
-* 시작과 끝에 '''를 사용해서 입력해주면된다.    
+* 시작과 끝에 '''를 사용해서 입력해주면된다. 
+* 중간에 코드를 넣기 위해서는 '를 하나만 사용해서 코드를 감싸주면된다.(인라인코드방식)
 
 
 * <a href="#"><img src="/images/코드블록.JPG" width = "300px" alt = "코드블록"></a>    
@@ -109,6 +110,18 @@ First Header | Second Header
 ------------ | -------------
 Cell 1 | Cell 2
 Column 1 | Column 2
+
+
+### 2.11 수평선
+
+<a href ="#"><img src="/images/수평선.JPG" width ="300px" alt="수평선"</a>
+  
+---
+***
+- - -
+
+
+
 
 
 
