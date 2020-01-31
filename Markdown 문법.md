@@ -92,7 +92,7 @@ Git MarkDown 사용법
 
     **This text will be bold.**
     
-    ~~IT is cancel line.~~
+    ~~It is cancel line.~~
 
 ### 2.9 체크 박스
 
@@ -101,7 +101,14 @@ Git MarkDown 사용법
 - [x] this is a complete item.
 - [ ] this is an incomplete item.
 
-### 2.10 
+### 2.10 테이블(표 만들기)
+
+<a href="#"><img src="/images/표만들기.JPG" width = "300px" alt="표만들기"></a>
+
+First Header | Second Header
+------------ | -------------
+Cell 1 | Cell 2
+Column 1 | Column 2
 
 
 
