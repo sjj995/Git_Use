@@ -91,7 +91,12 @@ Git MarkDown 사용법
 
     **This text will be bold.**
 
+### 2.9 체크 박스
 
+- [x] this is a complete item.
+- [ ] this is an incomplete item.
+
+![체크박스](/images/체크박스.JPG)
 
 
 
