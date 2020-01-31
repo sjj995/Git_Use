@@ -68,7 +68,7 @@ Git MarkDown 사용법
 ### 2.6 코드 블록
 
 * 시작과 끝에 '''를 사용해서 입력해주면된다.
-* <a href="#"><img src="/images/코드블록.JPG" width = "8px" alt = "코드블록"></a>  이런식으로 만들어 줄 수도 있다.
+* <a href="#"><img src="/images/코드블록.JPG" width = "400px" alt = "코드블록"></a>  이런식으로 만들어 줄 수도 있다.
 
 
 
