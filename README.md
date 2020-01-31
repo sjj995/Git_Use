@@ -68,7 +68,7 @@ Git MarkDown 사용법
 ### 2.6 코드 블록
 
 * 시작과 끝에 '''를 사용해서 입력해주면된다.
-* <pre><code>{code}</code></pre> 이런식으로 만들어 줄 수도 있다.
+* <Pre><Code>{code}</Code></Pre> 이런식으로 만들어 줄 수도 있다.
 
 
 
