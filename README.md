@@ -79,7 +79,7 @@ Git MarkDown 사용법
 
 In Proverbs 23:7 :
 
-> for he is the kind of man who is always thinking about the cost. 
+> for he is the kind of man who is always thinking about the cost.    
 > "Eat and drink," he says to you, but his heart is not with you.
 
 
