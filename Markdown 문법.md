@@ -114,7 +114,7 @@ Column 1 | Column 2
 
 ### 2.11 수평선
 
-<a href ="#"><img src="/images/수평선.JPG" width ="300px" alt="수평선"</a>
+<a href ="#"><img src="/images/수평선.JPG" width ="300px" alt="수평선"></a>
   
 ---
 ***
