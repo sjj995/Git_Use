@@ -87,9 +87,9 @@ In Proverbs 23:7
 * 시작과 끝 부분에 "*" 이나 "_" 를 사용하게 되면 기울림 효과가 들어간다.
 - 시작과 끝부분에 "**" 이나 "__"를 사용하게 되면 진하게 효과가 들어간다.
 
-*This text will be italic.*  
+    *This text will be italic.*  
 
-**This text will be bold.**
+    **This text will be bold.**
 
 
 
