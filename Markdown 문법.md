@@ -86,12 +86,22 @@ Git MarkDown 사용법
 
 * 시작과 끝 부분에 "*" 이나 "_" 를 사용하게 되면 기울림 효과가 들어간다.
 - 시작과 끝부분에 "**" 이나 "__"를 사용하게 되면 진하게 효과가 들어간다.
++  "~~ " 를 사용하게되면 cancel line이 그어지는 효과가 들어간다.
 
     *This text will be italic.*  
 
     **This text will be bold.**
+    
+    ~~IT is cancel line.~~
 
+### 2.9 체크 박스
 
+<a href="#"><img src="/images/체크박스.JPG" width = "300px" alt="체크박스"></a>
+
+- [x] this is a complete item.
+- [ ] this is an incomplete item.
+
+### 2.10 
 
 
 
