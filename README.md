@@ -62,11 +62,13 @@ Git MarkDown 사용법
 
 #### 방법
 
-1. 첫 번째 방법  
-<pre><code>/*Format : ![이미지 alt속성](상대경로및 절대경로)*/</code></pre>
+![이미지 삽입방법](/images/이미지저장방법.JPG)
 
-1. 두 번째 방법  
-<pre><code>/* Format <a href="#"><img src="절대경로or상대경로" width ="이미지넓이px" alt="이미지 alt속성"> */</a></code></pre>
+
+### 2.6 코드 블록
+
+* 시작과 끝에 '''를 사용해서 입력해주면된다.
+* <Pre><Code>{code}</Code></Pre> 이런식으로 만들어 줄 수도 있다.
 
 
 
