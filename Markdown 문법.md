@@ -93,10 +93,11 @@ Git MarkDown 사용법
 
 ### 2.9 체크 박스
 
+<a href="#"><img src="/images/체크박스.JPG" width = "300px" alt="체크박스"></a>
+
 - [x] this is a complete item.
 - [ ] this is an incomplete item.
 
-![체크박스](/images/체크박스.JPG)
 
 
 
