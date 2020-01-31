@@ -62,7 +62,7 @@ Git MarkDown 사용법
 
 #### 방법
 
-<pre><code>Format : ![이미지 삽입방법](/images/이미지저장방법.JPG)</code></pre>
+![이미지 삽입방법](/images/이미지저장방법.JPG)
 
 
 
